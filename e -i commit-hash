@@ -1,0 +1,23 @@
+[33mcommit cea5901e6055122d7320dffced35204362aabe7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: NİSANUR <nisaunlv11@gmail.com>
+Date:   Wed Oct 2 15:37:59 2024 +0300
+
+    Öğrencilerin ders seçimi ve öğretmenlerin verdikleri dersleri yönetme sistemi oluşturuldu.
+    
+    - Öğrencilerin ders seçebilmesi sağlandı
+    - Öğretmenlerin verdikleri dersleri yönetebileceği sistem eklendi
+    - Öğrenci, öğretmen ve ders arasındaki ilişki kuruldu
+    - Öğretmenler için derslerine kayıtlı öğrenciler listelendi
+    - Öğrencilerin aldıkları dersler gösterildi
+
+[33mcommit cf02d1143aa8fd4a69742f8d494e27983476cafb[m
+Author: NİSANUR <nisaunlv11@gmail.com>
+Date:   Wed Oct 2 15:34:17 2024 +0300
+
+    Öğrencilerin ders seçimi ve öğretmenlerin verdikleri dersleri yönetme sistemi oluşturuldu.
+    
+    - Öğrencilerin ders seçebilmesi sağlandı
+    - Öğretmenlerin verdikleri dersleri yönetebileceği sistem eklendi
+    - Öğrenci, öğretmen ve ders arasındaki ilişki kuruldu
+    - Öğretmenler için derslerine kayıtlı öğrenciler listelendi
+    - Öğrencilerin aldıkları dersler gösterildi
